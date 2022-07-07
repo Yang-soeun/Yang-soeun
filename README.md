@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-soeun&show_icons=true&theme=buefy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yang-soeun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
