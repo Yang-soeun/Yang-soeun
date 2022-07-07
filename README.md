@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-soeun&show_icons=true&theme=buefy) 
 [![Yang-soeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-soeun&show_icons=true&hide_border=true&title_color=7E4DD2&icon_color=004386&layout=compact)](https://github.com/Yang-soeun)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yang-soeun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
