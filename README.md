@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9999FF,100:a82da8&height=300&section=header&section=header&text=Welcome&fontColor=FFFFFF&fontSize=90)
 ### Hi there 👋
 
 <!--
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### My stats😊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-soeun&show_icons=true&theme=buefy) 
 [![Yang-soeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-soeun&show_icons=true&hide_border=true&title_color=7E4DD2&icon_color=004386&layout=compact)](https://github.com/Yang-soeun)
 
