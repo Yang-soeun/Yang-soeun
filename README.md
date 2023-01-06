@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 
 [![Yang-soeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-soeun&show_icons=true&hide_border=true&title_color=7E4DD2&icon_color=004386&layout=compact)](https://github.com/Yang-soeun)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yang-soeun)
-
-![snake gif](https://github.com/Yang-soeun/Yang-soeun/blob/output/github-contribution-grid-snake.svg)
 
