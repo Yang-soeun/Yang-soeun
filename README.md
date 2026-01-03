@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### My stats😊
-
-[![Yang-soeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-soeun&show_icons=true&hide_border=true&title_color=7E4DD2&icon_color=004386&layout=compact)](https://github.com/Yang-soeun)
-
-
